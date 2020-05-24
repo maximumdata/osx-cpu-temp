@@ -298,7 +298,7 @@ void readAndPrintFanRPMs(void)
 
 int main(int argc, char* argv[])
 {
-    char scale = 'C';
+    char scale = 'F';
     int cpu = 0;
     int fan = 0;
     int gpu = 0;
