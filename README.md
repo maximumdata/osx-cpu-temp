@@ -32,14 +32,15 @@ clib install lavoiesl/osx-cpu-temp
 ### Output example
 
 ```
-61.8 °C
+99.7 °F
 ```
 
 ### Options
 
- * `-C` Output temperature in Celsius (default).
- * `-F` Output temperature in Fahrenheit.
+ * `-C` Output temperature in Celsius.
+ * `-F` Output temperature in Fahrenheit (default).
  * `-f` Output fan speed.
+ * `-g` Output gpu temperature.
 
 ## Maintainer 
 
